@@ -1,7 +1,7 @@
 ---
 name: Objective
 about: Track a long-term objective that spans multiple issues
-title: "[Objective]: "
+title: ""
 labels: ["objective", "roadmap"]
 ---
 
