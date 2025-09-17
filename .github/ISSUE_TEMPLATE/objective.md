@@ -2,7 +2,7 @@
 name: Objective
 about: Track a long-term objective that spans multiple issues
 title: ""
-labels: ["objective", "roadmap"]
+labels: ["objective"]
 ---
 
 ## Why
@@ -11,13 +11,8 @@ labels: ["objective", "roadmap"]
 ## What
 <!-- What is the desired end state or measurable outcome? -->
 
-## Success Criteria / Metrics
-<!-- How will we know this objective is successful? -->
-
-## Scope
-<!-- High-level description of what’s in scope and (optionally) out of scope -->
-
-## Milestones / Deliverables
+## Milestones
+<!-- Deliverables to track progress and confirm the objective has been achieved -->
 - [ ] Milestone 1
 - [ ] Milestone 2
 - [ ] Milestone 3
