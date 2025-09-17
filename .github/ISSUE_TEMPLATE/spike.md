@@ -2,6 +2,7 @@
 name: Spike / Research
 about: Time-boxed research to explore a problem or solution
 title: "[Spike]: "
+labels: ["spike"]
 ---
 
 ## Question / Problem to Explore
